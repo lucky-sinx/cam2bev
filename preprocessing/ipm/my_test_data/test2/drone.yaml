@@ -1,0 +1,15 @@
+# camera calibration matrix K
+fx: 1610.41
+fy: 1610.41
+px: 500.0
+py: 500.0
+
+# rotation matrix R (in deg) (drone is assumed to be at 90° pitch, 90° roll)
+yaw:    0.0
+pitch: 90.0
+roll:   0.0
+
+# vehicle coords of camera origin
+XCam:  0.0
+YCam:  0.0
+ZCam: 1000.0
